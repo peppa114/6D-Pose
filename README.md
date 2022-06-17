@@ -9,4 +9,4 @@ The visualization results are as follows:
 ![lmo](visualization/lmo/5.png)   
 [ycb_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/ycb)  
 ![ycb](visualization/ycb/5.png)  
-# Trian
+# Models
