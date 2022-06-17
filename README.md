@@ -1,5 +1,6 @@
 # 6D_Pose
-![The San Juan Mountains are beautiful!](visualization/lm/5.png)
+![lm](visualization/lm/5.png)
+![lmo](visualization/lmo/5.png)
 
 # Models
 
