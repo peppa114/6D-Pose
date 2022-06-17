@@ -10,7 +10,7 @@ The visualization results are as follows:
 [ycb_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/ycb)  
 ![ycb](visualization/ycb/5.png)  
 
-
+<img src="visualization/lmo/7.png" width="324" height="324">
 <img src="visualization/ycb/5.png" width="324" height="324">
 
 # Models
