@@ -1,8 +1,6 @@
 # 6D_Pose
 lm_vis   
-[link](https://www.example.com/my%20great%20page)
-
-<a href="https://www.example.com/my great page">link</a>
+[link](https://github.com/peppa114/6D_Pose/tree/main/visualization/lm)
 ![lm](visualization/lm/5.png)   
 lmo_vis   
 ![lmo](visualization/lmo/5.png)   
