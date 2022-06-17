@@ -11,6 +11,6 @@ The visualization results are as follows:
 ![ycb](visualization/ycb/5.png)  
 
 
-Here is an inline ![smiley](visualization/ycb/5.png){:height="36px" width="36px"}.
+<img src="visualization/ycb/5.png" width="324" height="324">
 
 # Models
