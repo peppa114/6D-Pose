@@ -7,7 +7,7 @@ The visualization results are as follows:
 [lm_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/lm)   
 <img src="visualization/lm/lm.png" width="486" height="324">    
 [lmo_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/lmo)  
-<img src="visualization/lmo/lmo.png" width="648" height="324">    
+<img src="visualization/lmo/lmo.png" width="400" height="200">    
 [ycb_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/ycb)  
 <img src="visualization/ycb/ycb.png" width="600" height="200">   
 
