@@ -9,5 +9,5 @@ The visualization results are as follows:
 [lmo_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/lmo)  
 <img src="visualization/lmo/lmo.png" width="648" height="324">    
 [ycb_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/ycb)  
-<img src="visualization/ycb/ycb.png" width="486" height="324">   
+<img src="visualization/ycb/ycb.png" width="972" height="324">   
 
