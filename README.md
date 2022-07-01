@@ -1,4 +1,4 @@
-# 6D_Pose
+# 6D-Pose
 # Video
 The robotic grasping experiment video is shown here: [Video](https://www.bilibili.com/video/BV1ot4y187g7/) 
 
