@@ -11,3 +11,5 @@ The visualization results are as follows:
 [ycb_vis](https://github.com/peppa114/6D_Pose/tree/main/visualization/ycb)  
 <img src="visualization/ycb/ycb.png" width="600" height="200">   
 
+# Video
+The robotic grasping experiment video is shown here: [Video](https://www.bilibili.com/video/BV1ot4y187g7/) 
